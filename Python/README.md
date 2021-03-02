@@ -1,0 +1,2 @@
+# Clean code on Python
+To write clean code in Python, the same language makes it easier for us since it is sensitive to indentation making us something more ordered, however, this does not mean that this is the only important thing. To refine the rest of the details we will be basing ourselves on [ PEP8.](https://www.python.org/dev/peps/pep-0008/ " PEP8.")

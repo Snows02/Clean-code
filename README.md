@@ -1,5 +1,5 @@
 # Clean code
-This is a short guide on how to write clean code in certain programming languages, based on my experience as a programmer and certain standards.
+This is a short guide on how to write clean code in certain programming languages, based on my experience as a programmer and standards.
 
 Before starting a brief advice that will be very useful later. This tip is to activate the "render Whitespace".
 
